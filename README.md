@@ -1,5 +1,7 @@
 # Party-Reservation-api
 
+This project is copied from my private repository, so it may lack some keys to run.
+
 This project is a website application allowing company to post their events and allowing the customer user to reserve and pay for the event.
 
 This repository contains the documentation for Reservation and Party Booking App’s back-end API of company side allowing company to post and edit their events.
